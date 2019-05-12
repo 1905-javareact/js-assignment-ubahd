@@ -14,11 +14,11 @@ class person {
 let human = new person('David', 50)
 console.log(human)
 
-/*//using literals
+//using literals
 let someone = {
     name = 'David',
     age = 50
-}*/
+}
 
 
 
